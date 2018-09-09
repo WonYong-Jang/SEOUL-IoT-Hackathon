@@ -21,6 +21,7 @@
     "admin-lte": "./vendor/AdminLTE",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "purecss": "^1.0.0"
+    "purecss": "^1.0.0",
+    "request": "^2.88.0"
   }
 }
